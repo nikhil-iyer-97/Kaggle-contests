@@ -1,8 +1,0 @@
-The ipython notebooks contain the kernels needed to score less than 0.6 in the competition.
-The 'Classification.ipynb' contains code which uses logistic regression to classify if the
-molecule elicited a response. The 'classification_with_PCA.ipynb' notebook has code in which PCA
-has been implemented. The number of features that gave best output for Logistic Regression
-was found to be 1100. The results improved marginally.
-
-The conclusion henceforth is that PCA does not contribute to the improvement of the classifying
-model. Other approaches have to be utilized to get a better score.
