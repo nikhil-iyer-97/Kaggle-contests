@@ -5,4 +5,7 @@ This repo contains the notebooks which have been implemented and submitted by me
 Links:
 ------
 
-Predicting a biological response: https://www.kaggle.com/c/bioresponse
+Predicting a biological response: https://www.kaggle.com/c/bioresponse (best score = 0.59221)
+
+House Prices:Advanced Regression Techniques: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+(best score = 0.12248)
