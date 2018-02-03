@@ -9,3 +9,5 @@ Predicting a biological response: https://www.kaggle.com/c/bioresponse (best sco
 
 House Prices:Advanced Regression Techniques: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 (best score = 0.12248)
+
+Bag of words meets bag of popcorn(Word2Vec implementation): https://www.kaggle.com/c/word2vec-nlp-tutorial
